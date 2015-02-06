@@ -1,0 +1,5 @@
+Gemfile.lock
+vendor/
+.bundle/
+coverage/
+.DS_Store
